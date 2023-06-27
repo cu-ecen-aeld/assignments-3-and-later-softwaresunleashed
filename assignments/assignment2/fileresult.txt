@@ -1,0 +1,5 @@
+┌─ User:sudhanshu   Host:sudhanshu   Date:Tue Jun 27   Time:20:26:01
+|  Git:  (master *%=)    Branch: (master)   Tag:
+|  558  ~/courses/01_coursera/01_linux_system_programming/assignment-2-softwaresunleashed/finder-app
+└─▶ $ file writer
+writer: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=6a292f229674d8f1f4b5f1c9c4fe067fa502cd32, for GNU/Linux 3.7.0, not stripped
